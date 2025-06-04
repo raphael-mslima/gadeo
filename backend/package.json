@@ -1,6 +1,7 @@
 {
   "name": "gadeo-backend",
   "version": "1.0.0",
+
   "description": "Backend API for emotional journeys",
   "main": "src/index.js",
   "scripts": {
